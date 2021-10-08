@@ -1,5 +1,5 @@
 import time
-from typing import OrderedDict
+from collection import OrderedDict
 import pandas as pd
 import numpy as np
 
