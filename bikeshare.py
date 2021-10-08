@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 # REFACTORED CODE
-print ("REFACTORED CODE")
+print ("REFACTORED PRODUCTION CODE")
 
 FILES = {'Chicago': 'chicago.csv',
              'New York City': 'new_york_city.csv',
