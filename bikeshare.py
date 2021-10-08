@@ -3,6 +3,7 @@ from collection import OrderedDict
 import pandas as pd
 import numpy as np
 
+# REFACTORED CODE
 print ("REFACTORED CODE")
 
 FILES = {'Chicago': 'chicago.csv',
